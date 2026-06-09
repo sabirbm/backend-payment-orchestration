@@ -1,3 +1,9 @@
+
+# About Me 
+I no longer view myself as just a software developer; I see myself as an engineer who leverages and manages multiple AI agents to design, build, and deliver high-quality software solutions.
+
+This project is created using a collaborative AI-assisted development approach with ChatGPT, Claude, and Cursor. My role extended beyond writing code to architecting solutions, validating outputs, and orchestrating multiple AI agents toward a common engineering goal.
+
 # Payment Orchestration System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
